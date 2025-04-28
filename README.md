@@ -48,8 +48,6 @@ Everything here is CC0—fork, remix, profit.
 ---
 
 ## 🔭 Roadmap
-- **Q2 2025:** Publish editable Google Docs versions via Docs-to-Markdown action  
-- **Q3 2025:** Add a Notion database template mirroring this repo structure  
 - **Ongoing:** Dog-food each framework in client work and update with lessons learned  
 
 ---
