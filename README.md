@@ -46,10 +46,7 @@
 ---
 
 ## Roadmap
-| Milestone | Target timeline | Notes |
-|-----------|-----------------|-------|
 
-| Continuous improvements | **Ongoing** | Each framework is dog-fooded in real client work; updates shipped as lessons emerge |
 
 ---
 
