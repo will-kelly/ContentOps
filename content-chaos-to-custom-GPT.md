@@ -16,7 +16,6 @@
 - [Test, Refine, and Iterate](#test-refine-and-iterate)
 - [Use Cases and Business Value](#use-cases-and-business-value)
 - [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -117,13 +116,6 @@ To integrate your own content into a Custom GPT:
 4. Test and refine the model with realistic scenarios.
 
 More detailed setup guides coming soon.
-
----
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check [issues page](https://github.com/your-repo/issues) or submit a pull request.
 
 ---
 
