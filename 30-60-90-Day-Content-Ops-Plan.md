@@ -1,4 +1,4 @@
-# 30-60-90 Day Plan: Content Operations Role – Cloud Company
+# 30-60-90 Day Plan: Content Operations Roll Out – Cloud Company
 
 ## First 30 Days — Understand, Connect, Assess
 
